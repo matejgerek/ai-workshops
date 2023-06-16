@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ai-workshops"
+  site-url: "https://sudolabs-io.github.io/ai-workshops"
+  description: "AI Workshops"
+  repo-branch: main
+  repo-url: "https://github.com/sudolabs-io/ai-workshops"
